@@ -1,0 +1,12 @@
+.idea
+/node_modules
+/auth
+/bitrix
+/communications
+/content
+/e-store
+/images
+/personal
+/search
+/upload
+*.php
